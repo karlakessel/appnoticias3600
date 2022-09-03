@@ -18,7 +18,7 @@ export class NewsService {
       params : {
 
       apiKey:apiKey,
-      category:'business',
+      category:category,
       country:'us',
       page:page
       
